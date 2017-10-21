@@ -1,0 +1,5 @@
+﻿BDD avec Derby
+Clé primaire => ID (Timestamp)
+NOM varchar(100)
+PRENOM varchar(100)
+LOGIN varchar(100)
